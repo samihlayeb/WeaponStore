@@ -1,0 +1,56 @@
+.shop {
+  width: 1500px;
+}
+.item {
+  margin: 2em;
+  max-width: 350px;
+}
+.card {
+  display: inline-flex;
+  flex-wrap: wrap;
+  margin-bottom: 2em;
+  justify-content: center;
+}
+.image {
+  margin-top: 1em;
+  height: 190px;
+  text-align: center;
+}
+img {
+  height: 100%;
+  width: auto;
+}
+
+.content1 {
+  height: 150px;
+}
+.content2{
+  text-align: right;
+}
+.label
+{
+  color: gold;
+  font-size: 22px;
+}
+.cart {
+  margin-top: 2em;
+  padding: 20px;
+
+}
+.items-list {
+  width: 100%;
+  margin: 1em 0;
+}
+.item-name {
+  width: 90%;
+  display: inline-block;
+}
+.item-price {
+  width: 10%;
+  text-align: center;
+  display: inline-block;
+}
+.btn {
+  position: relative;
+  left: 700px;
+}
