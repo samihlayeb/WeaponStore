@@ -1,6 +1,12 @@
 .shop {
   width: 1500px;
 }
+.h1{
+  text-align: center;
+}
+.desc {
+  text-align: center;
+}
 .item {
   margin: 2em;
   max-width: 350px;
